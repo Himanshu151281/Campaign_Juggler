@@ -15,7 +15,7 @@ Campaign Juggler is a web application for managing email campaigns. This project
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/Himanshu151281/campaign-juggler.git
+    git clone https://github.com/Himanshu151281/Campaign_Juggler.git
     cd campaign-juggler
     ```
 
